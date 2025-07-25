@@ -87,6 +87,16 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "ce9de6cb78d180be",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
@@ -177,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "0e18442f0cd53878",
@@ -210,11 +220,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "92fb6b35e9f749d3",
+  "active": "78f8f9c2d11f91ab",
   "lastOpenFiles": [
+    "LICENSE",
     "copilot-custom-prompts/Emojify.md",
     "欢迎.md",
     "copilot-custom-prompts/Translate to Chinese.md",
