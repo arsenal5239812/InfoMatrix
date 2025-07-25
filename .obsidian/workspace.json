@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9a960fbc0696912e",
+        "id": "5ce74582c3201e44",
         "type": "tabs",
         "children": [
           {
-            "id": "65583e28516b6f02",
+            "id": "948d7400c32bad13",
             "type": "leaf",
             "state": {
-              "type": "planner-release-notes",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Day Planner Release 0.28.0"
+              "title": "新标签页"
             }
           }
         ]
@@ -193,19 +193,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "285c73658381b001",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "0e18442f0cd53878",
@@ -221,8 +211,19 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "285c73658381b001",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,7 +247,7 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "65583e28516b6f02",
+  "active": "285c73658381b001",
   "lastOpenFiles": [
     "2025-07-26.md",
     "欢迎.md",
