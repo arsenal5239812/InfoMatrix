@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "copilot-custom-prompts/Translate to Chinese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8891dacf6a40403e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3af7cb74aa875020",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "Translate to Chinese"
             }
           }
         ]
@@ -103,6 +87,7 @@
       {
         "id": "41e49dcef47e8a57",
         "type": "tabs",
+        "dimension": 26.75,
         "children": [
           {
             "id": "7d5db193897dae67",
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "copilot-custom-prompts/Translate to Chinese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "Translate to Chinese 的反向链接列表"
             }
           },
           {
@@ -166,13 +151,40 @@
               "icon": "lucide-list",
               "title": "欢迎 的大纲"
             }
+          },
+          {
+            "id": "78f8f9c2d11f91ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "0e18442f0cd53878",
+        "type": "tabs",
+        "dimension": 73.25,
+        "children": [
+          {
+            "id": "fa19bf42b49879de",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +194,26 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f980282c2995dfd3",
+  "active": "78f8f9c2d11f91ab",
   "lastOpenFiles": [
-    "欢迎.md"
+    "欢迎.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts"
   ]
 }
