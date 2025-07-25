@@ -11,10 +11,14 @@
             "id": "5b9f0014a0364f17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "欢迎"
             }
           }
         ]
@@ -86,12 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "欢迎 的大纲"
             }
           }
         ]
@@ -141,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "欢迎 的反向链接列表"
             }
           },
           {
@@ -159,11 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "欢迎 的出链列表"
             }
           },
           {
@@ -227,10 +234,11 @@
       "copilot:Open Copilot Chat": false,
       "obsidian42-brat:BRAT": false,
       "keep-the-rhythm:Word Count Stats": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "32e474220be951c7",
+  "active": "5b9f0014a0364f17",
   "lastOpenFiles": [
     "copilot-custom-prompts/Emojify.md",
     "欢迎.md",
