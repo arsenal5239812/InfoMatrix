@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "18f5b17ef44be150",
+        "id": "9a960fbc0696912e",
         "type": "tabs",
         "children": [
           {
-            "id": "5b9f0014a0364f17",
+            "id": "65583e28516b6f02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "planner-release-notes",
+              "state": {},
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "Day Planner Release 0.28.0"
             }
           }
         ]
@@ -197,9 +193,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "285c73658381b001",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "0e18442f0cd53878",
@@ -224,6 +230,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-day-planner:Open Timeline": false,
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -235,13 +242,15 @@
       "obsidian42-brat:BRAT": false,
       "keep-the-rhythm:Word Count Stats": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "5b9f0014a0364f17",
+  "active": "65583e28516b6f02",
   "lastOpenFiles": [
-    "copilot-custom-prompts/Emojify.md",
+    "2025-07-26.md",
     "欢迎.md",
+    "copilot-custom-prompts/Emojify.md",
     "LICENSE",
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
