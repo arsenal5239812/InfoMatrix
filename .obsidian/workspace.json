@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3d687d32b0f6634",
+        "id": "7c5fbb9a075343ba",
         "type": "tabs",
         "children": [
           {
-            "id": "f4ffb1c833057d9a",
+            "id": "92fb6b35e9f749d3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -91,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copilot-custom-prompts/Translate to Chinese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Translate to Chinese 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -191,12 +190,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "78f8f9c2d11f91ab",
+  "active": "92fb6b35e9f749d3",
   "lastOpenFiles": [
+    "copilot-custom-prompts/Emojify.md",
     "欢迎.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -204,11 +206,9 @@
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts"
   ]
