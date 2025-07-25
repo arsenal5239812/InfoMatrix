@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7c5fbb9a075343ba",
+        "id": "18f5b17ef44be150",
         "type": "tabs",
         "children": [
           {
-            "id": "92fb6b35e9f749d3",
+            "id": "5b9f0014a0364f17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          },
-          {
-            "id": "50a8f626813bcf3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "copilot-custom-prompts/Emojify.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emojify"
+              "title": "新标签页"
             }
           }
         ]
@@ -97,6 +79,46 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "3bec5d856f17629b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9214ff487704d598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32e474220be951c7",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
+            }
+          },
+          {
+            "id": "485a228944381d65",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ]
       }
@@ -119,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -138,12 +159,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -162,21 +182,6 @@
             }
           },
           {
-            "id": "3bec5d856f17629b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "欢迎.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "欢迎 的大纲"
-            }
-          },
-          {
             "id": "78f8f9c2d11f91ab",
             "type": "leaf",
             "state": {
@@ -187,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "0e18442f0cd53878",
@@ -221,15 +226,15 @@
       "command-palette:打开命令面板": false,
       "copilot:Open Copilot Chat": false,
       "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "keep-the-rhythm:Word Count Stats": false
+      "keep-the-rhythm:Word Count Stats": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78f8f9c2d11f91ab",
+  "active": "32e474220be951c7",
   "lastOpenFiles": [
-    "LICENSE",
     "copilot-custom-prompts/Emojify.md",
     "欢迎.md",
+    "LICENSE",
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
