@@ -11,17 +11,40 @@
             "id": "948d7400c32bad13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Major courses/XJCO2221 Networks/Notebook.md",
-                "mode": "source",
-                "source": false
+                "file": "Backup/XJCO2221 Networks/slides/slides-1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Notebook"
+              "icon": "lucide-file-text",
+              "title": "slides-1"
+            }
+          },
+          {
+            "id": "bb8e06d317ada1d7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Backup/XJCO2221 Networks/exams/2023.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2023"
+            }
+          },
+          {
+            "id": "e2387c7a0886a36a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Backup/XJCO2221 Networks/exams/2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2024"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,9 +275,21 @@
   },
   "active": "787b05a738df4f90",
   "lastOpenFiles": [
-    "Major courses/XJCO2221 Networks/slides",
-    "Major courses/XJCO2221 Networks/exams",
-    "Major courses/XJCO2221 Networks/figures",
+    "Backup/XJCO2221 Networks/figures/Wi-Fi.png",
+    "Backup/XJCO2221 Networks/figures/MoreModernNetworks.png",
+    "Backup/XJCO2221 Networks/figures/LAN.png",
+    "Backup/XJCO2221 Networks/figures/Early Residential Access.png",
+    "Backup/XJCO2221 Networks/exams/2023.pdf",
+    "Backup/XJCO2221 Networks/exams/2022.pdf",
+    "Backup/XJCO2221 Networks/exams/2021.pdf",
+    "Backup/XJCO2221 Networks/slides/slides-1.pdf",
+    "Backup/XJCO2221 Networks/exams/2024.pdf",
+    "Backup/XJCO2221 Networks/figures",
+    "Backup/XJCO2221 Networks/exams",
+    "Major courses/XJCO2221 Networks/Notebook.md",
+    "Backup/XJCO2221 Networks/slides/slides-20.pdf",
+    "Backup/XJCO2221 Networks/slides/slides-19.pdf",
+    "Backup/XJCO2221 Networks/slides/slides-18.pdf",
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
@@ -262,17 +297,8 @@
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Explain like I am 5.md",
-    "Major courses/XJCO2221 Networks/Notebook.md",
     "Backup/Figures/雪山.jpg",
     "Backup/Figures/湖雨.png",
-    "Backup/Figures",
-    "Backup/XJCO2912 Software Engineering Principles/main.pdf",
-    "Major courses/XJCO2221 Networks",
-    "Major courses/XJCO2912 Software Engineering Principles",
-    "Major courses",
-    "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter25-Configuration Management.pptx",
-    "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter24-Quality management.pptx",
-    "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter23-Project Planning.pptx",
     "2025-07-26.md",
     "欢迎.md",
     "copilot-custom-prompts/Translate to Chinese.md",
