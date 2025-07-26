@@ -8,43 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "948d7400c32bad13",
+            "id": "a3475ed0f7fa3957",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Backup/XJCO2221 Networks/slides/slides-1.pdf"
+                "file": "Major courses/XJCO2221 Networks/Notebook.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "slides-1"
+              "icon": "lucide-file",
+              "title": "Notebook"
             }
           },
           {
-            "id": "bb8e06d317ada1d7",
+            "id": "ac77b4146165f33b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Backup/XJCO2221 Networks/exams/2023.pdf"
+                "file": "Backup/XJCO2221 Networks/exams/2021.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2023"
-            }
-          },
-          {
-            "id": "e2387c7a0886a36a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Backup/XJCO2221 Networks/exams/2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2024"
+              "title": "2021"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,23 +262,29 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "787b05a738df4f90",
+  "active": "a3475ed0f7fa3957",
   "lastOpenFiles": [
+    "Backup/XJCO2221.md",
+    "Major courses/XJCO2221 Networks/Notebook.md",
+    "XJCO2221.md",
+    "Backup/XJCO2221 Networks/slides/slides-1.pdf",
+    "Backup/XJCO2221 Networks/exams/2024.pdf",
+    "Backup/XJCO2221 Networks/exams/2023.pdf",
+    "Backup/XJCO2221 Networks/exams/2021.pdf",
+    "Major courses/XJCO2221 Networks/figures/Wi-Fi.png",
+    "Major courses/XJCO2221 Networks/figures/MoreModernNetworks.png",
+    "Major courses/XJCO2221 Networks/figures/LAN.png",
+    "Major courses/XJCO2221 Networks/figures/Early Residential Access.png",
+    "Major courses/XJCO2221 Networks/figures",
     "Backup/XJCO2221 Networks/figures/Wi-Fi.png",
     "Backup/XJCO2221 Networks/figures/MoreModernNetworks.png",
     "Backup/XJCO2221 Networks/figures/LAN.png",
     "Backup/XJCO2221 Networks/figures/Early Residential Access.png",
-    "Backup/XJCO2221 Networks/exams/2023.pdf",
     "Backup/XJCO2221 Networks/exams/2022.pdf",
-    "Backup/XJCO2221 Networks/exams/2021.pdf",
-    "Backup/XJCO2221 Networks/slides/slides-1.pdf",
-    "Backup/XJCO2221 Networks/exams/2024.pdf",
     "Backup/XJCO2221 Networks/figures",
     "Backup/XJCO2221 Networks/exams",
-    "Major courses/XJCO2221 Networks/Notebook.md",
     "Backup/XJCO2221 Networks/slides/slides-20.pdf",
     "Backup/XJCO2221 Networks/slides/slides-19.pdf",
-    "Backup/XJCO2221 Networks/slides/slides-18.pdf",
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
