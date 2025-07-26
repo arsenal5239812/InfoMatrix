@@ -1,11 +1,36 @@
-.idea
-.obsidian
-.vscode
+# 忽略Obsidian系统配置
+.obsidian/
+
+# 忽略IDE/编辑器配置
+.vscode/
+.idea/
+
+# 忽略本地大文件夹
+Backup/
+
+# 忽略常见大文件类型
 *.pdf
 *.epub
 *.mobi
-*.mp4
 *.zip
+*.rar
+*.7z
+*.tar
+*.gz
 *.ppt
 *.pptx
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+*.iso
+
+#忽略系统/缓存垃圾
 .DS_Store
+Thumbs.db
+desktop.ini
