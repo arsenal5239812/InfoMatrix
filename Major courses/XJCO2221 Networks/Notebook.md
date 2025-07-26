@@ -93,12 +93,12 @@ banner-height: 450
 - LAN/MAN/WAN 是**网络在哪里**的分类，按物理范围划分；
 - OSI 是**数据怎么走**的分层模型，按通信过程划分
 
-| 比较维度 | Networ Type | OSI Model |
-|---------|-------------|-----------|
-| 本质     | 网络**分类标准** | 网络**通信结构模型** |
-| 关注点   | 网络的**范围/物理布局** | 数据**如何流经系统** |
-| 用途     | 描述实际网络拓扑和规模 | 标准化设备/系统间通信 |
-| 联系     | LAN、MAN、WAN的通信都**遵循OSI Model的分层原理 | |
+| 比较维度 | Networ Type                         | OSI Model    |
+| ---- | ----------------------------------- | ------------ |
+| 本质   | 网络**分类标准**                          | 网络**通信结构模型** |
+| 关注点  | 网络的**范围/物理布局**                      | 数据**如何流经系统** |
+| 用途   | 描述实际网络拓扑和规模                         | 标准化设备/系统间通信  |
+| 联系   | LAN、MAN、WAN的通信都**遵循OSI Model**的分层原理 |              |
 
 ## 3. Network Infrastructure
 
@@ -115,7 +115,7 @@ banner-height: 450
   
 ## 5. Slides
 
-- [slides-1](Backup/XJCO2221 Networks/slides/slides-1.pdf)
+- [slides-1](slides/slides-1.pdf)
 - [slides-2](slides/slides-2.pdf)
 - [slides-3](slides/slides-3.pdf)
 - [slides-4](slides/slides-4.pdf)

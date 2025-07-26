@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Major courses/XJCO2221 Networks/Notebook.md",
-                "mode": "preview",
+                "file": "Major courses/XJCO2912 Software Engineering Principles/Notebook.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Notebook"
-            }
-          },
-          {
-            "id": "ac77b4146165f33b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Backup/XJCO2221 Networks/exams/2021.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2021"
             }
           }
         ]
@@ -264,13 +252,14 @@
   },
   "active": "a3475ed0f7fa3957",
   "lastOpenFiles": [
-    "Backup/XJCO2221.md",
     "Major courses/XJCO2221 Networks/Notebook.md",
+    "Major courses/XJCO2912 Software Engineering Principles/Notebook.md",
+    "Backup/XJCO2221 Networks/exams/2021.pdf",
+    "Backup/XJCO2221.md",
     "XJCO2221.md",
     "Backup/XJCO2221 Networks/slides/slides-1.pdf",
     "Backup/XJCO2221 Networks/exams/2024.pdf",
     "Backup/XJCO2221 Networks/exams/2023.pdf",
-    "Backup/XJCO2221 Networks/exams/2021.pdf",
     "Major courses/XJCO2221 Networks/figures/Wi-Fi.png",
     "Major courses/XJCO2221 Networks/figures/MoreModernNetworks.png",
     "Major courses/XJCO2221 Networks/figures/LAN.png",
