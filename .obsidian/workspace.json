@@ -222,8 +222,7 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,7 +246,7 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "285c73658381b001",
+  "active": "fa19bf42b49879de",
   "lastOpenFiles": [
     "2025-07-26.md",
     "欢迎.md",
