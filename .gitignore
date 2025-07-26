@@ -8,6 +8,15 @@
 # 忽略本地大文件夹
 Backup/
 
+# 忽略本地大文件夹内图片文件
+Backup/*.png
+Backup/*.jpg
+Backup/*.jpeg
+Backup/*.gif
+Backup/*.webp
+Backup/**/*.png
+Backup/**/*.jpg
+
 # 忽略常见大文件类型
 *.pdf
 *.epub
