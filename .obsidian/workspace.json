@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Notebook"
             }
+          },
+          {
+            "id": "2732b43a4a8fc59e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Major courses/XJCO2221 Networks/Notebook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notebook"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,10 +265,10 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "a3475ed0f7fa3957",
+  "active": "2732b43a4a8fc59e",
   "lastOpenFiles": [
-    "Major courses/XJCO2221 Networks/Notebook.md",
     "Major courses/XJCO2912 Software Engineering Principles/Notebook.md",
+    "Major courses/XJCO2221 Networks/Notebook.md",
     "Backup/XJCO2221 Networks/exams/2021.pdf",
     "Backup/XJCO2221.md",
     "XJCO2221.md",
