@@ -6,4 +6,6 @@
 *.mobi
 *.mp4
 *.zip
+*.ppt
+*.pptx
 .DS_Store
