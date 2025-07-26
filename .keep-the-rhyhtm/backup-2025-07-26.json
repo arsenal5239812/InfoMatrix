@@ -85,6 +85,28 @@
         "charCountStart": 470,
         "changes": [],
         "id": 16
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "欢迎.md",
+        "wordCountStart": 59,
+        "charCountStart": 111,
+        "changes": [],
+        "id": 18
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2025-07-26.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 19
       }
     ]
   }
