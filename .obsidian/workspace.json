@@ -20,30 +20,6 @@
               "icon": "lucide-file",
               "title": "Notebook"
             }
-          },
-          {
-            "id": "adb8c0c21a79de34",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Backup/Figures/湖雨.png"
-              },
-              "icon": "lucide-image",
-              "title": "湖雨"
-            }
-          },
-          {
-            "id": "44505e1207f4282b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Backup/Figures/雪山.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "雪山"
-            }
           }
         ]
       }
@@ -274,11 +250,21 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "948d7400c32bad13",
+  "active": "787b05a738df4f90",
   "lastOpenFiles": [
+    "Major courses/XJCO2221 Networks/slides",
+    "Major courses/XJCO2221 Networks/exams",
+    "Major courses/XJCO2221 Networks/figures",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "Major courses/XJCO2221 Networks/Notebook.md",
     "Backup/Figures/雪山.jpg",
     "Backup/Figures/湖雨.png",
-    "Major courses/XJCO2221 Networks/Notebook.md",
     "Backup/Figures",
     "Backup/XJCO2912 Software Engineering Principles/main.pdf",
     "Major courses/XJCO2221 Networks",
@@ -287,20 +273,11 @@
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter25-Configuration Management.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter24-Quality management.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter23-Project Planning.pptx",
-    "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter22-Project Management.pptx",
-    "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter09-Software Evolution.pptx",
     "2025-07-26.md",
     "欢迎.md",
-    "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
     "copilot-custom-prompts/Fix grammar and spelling.md"
