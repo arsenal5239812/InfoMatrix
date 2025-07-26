@@ -11,12 +11,14 @@
             "id": "948d7400c32bad13",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Backup/XJCO2912 Software Engineering Principles/main.pdf"
+                "file": "Major courses/XJCO2221 Networks/Notebook.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "main"
+              "icon": "lucide-file",
+              "title": "Notebook"
             }
           }
         ]
@@ -248,19 +250,19 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "948d7400c32bad13",
+  "active": "787b05a738df4f90",
   "lastOpenFiles": [
     "Backup/XJCO2912 Software Engineering Principles/main.pdf",
+    "Major courses/XJCO2221 Networks/Notebook.md",
+    "Major courses/XJCO2221 Networks",
+    "Major courses/XJCO2912 Software Engineering Principles",
+    "Major courses",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter25-Configuration Management.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter24-Quality management.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter23-Project Planning.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter22-Project Management.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter09-Software Evolution.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter08-Software Testing.pptx",
-    "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter07-Design and Implementation.pptx",
-    "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter06-Architectural design.pptx",
-    "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter05-System Modeling.pptx",
-    "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter04-Requirements Engineering.pptx",
     "2025-07-26.md",
     "欢迎.md",
     "copilot-custom-prompts/Emojify.md",
