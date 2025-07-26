@@ -11,10 +11,12 @@
             "id": "948d7400c32bad13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "Backup/XJCO2912 Software Engineering Principles/main.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "main"
             }
           }
         ]
@@ -246,8 +248,9 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "787b05a738df4f90",
+  "active": "948d7400c32bad13",
   "lastOpenFiles": [
+    "Backup/XJCO2912 Software Engineering Principles/main.pdf",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter25-Configuration Management.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter24-Quality management.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter23-Project Planning.pptx",
@@ -258,7 +261,6 @@
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter06-Architectural design.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter05-System Modeling.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter04-Requirements Engineering.pptx",
-    "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter03-Agile software development.pptx",
     "2025-07-26.md",
     "欢迎.md",
     "copilot-custom-prompts/Emojify.md",
