@@ -20,6 +20,30 @@
               "icon": "lucide-file",
               "title": "Notebook"
             }
+          },
+          {
+            "id": "adb8c0c21a79de34",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Backup/Figures/湖雨.png"
+              },
+              "icon": "lucide-image",
+              "title": "湖雨"
+            }
+          },
+          {
+            "id": "44505e1207f4282b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Backup/Figures/雪山.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "雪山"
+            }
           }
         ]
       }
@@ -252,9 +276,11 @@
   },
   "active": "948d7400c32bad13",
   "lastOpenFiles": [
+    "Backup/Figures/雪山.jpg",
+    "Backup/Figures/湖雨.png",
+    "Major courses/XJCO2221 Networks/Notebook.md",
     "Backup/Figures",
     "Backup/XJCO2912 Software Engineering Principles/main.pdf",
-    "Major courses/XJCO2221 Networks/Notebook.md",
     "Major courses/XJCO2221 Networks",
     "Major courses/XJCO2912 Software Engineering Principles",
     "Major courses",
@@ -263,7 +289,6 @@
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter23-Project Planning.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter22-Project Management.pptx",
     "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter09-Software Evolution.pptx",
-    "Backup/XJCO2912 Software Engineering Principles/XJCO2912-Software Engineering-chapter08-Software Testing.pptx",
     "2025-07-26.md",
     "欢迎.md",
     "copilot-custom-prompts/Emojify.md",
