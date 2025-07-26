@@ -1,3 +1,9 @@
 .idea
 .obsidian
 .vscode
+*.pdf
+*.epub
+*.mobi
+*.mp4
+*.zip
+.DS_Store
