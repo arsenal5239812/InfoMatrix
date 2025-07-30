@@ -76,37 +76,233 @@
     "highestStreak": 0,
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
-    "daysWithCompletedGoal": [],
+    "daysWithCompletedGoal": [
+      "2025-07-26"
+    ],
     "dailyActivity": [
+      {
+        "date": "2025-07-25",
+        "filePath": "大厂面经/字节跳动客户端-海外社区实习.md",
+        "wordCountStart": 3851,
+        "charCountStart": 6154,
+        "changes": [],
+        "id": 6
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "copilot-custom-prompts/Emojify.md",
+        "wordCountStart": 55,
+        "charCountStart": 470,
+        "changes": [],
+        "id": 7
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "copilot-custom-prompts/Explain like I am 5.md",
+        "wordCountStart": 37,
+        "charCountStart": 388,
+        "changes": [],
+        "id": 8
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "专业知识/Figures/湖雨.png",
+        "wordCountStart": 2776711,
+        "charCountStart": 12355292,
+        "changes": [],
+        "id": 9
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "专业知识/XJCO2912 Software Engineering Principles/Software Engineering Principles.md",
+        "wordCountStart": 20,
+        "charCountStart": 139,
+        "changes": [],
+        "id": 15
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "专业知识/XJCO2912 Software Engineering Principles/Software Engineering Principles.md",
+        "wordCountStart": 22,
+        "charCountStart": 159,
+        "changes": [],
+        "id": 24
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Backup/Figures/湖雨.png",
+        "wordCountStart": 2776711,
+        "charCountStart": 12355292,
+        "changes": [],
+        "id": 25
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Backup/Figures/雪山.jpg",
+        "wordCountStart": 610081,
+        "charCountStart": 2757595,
+        "changes": [],
+        "id": 26
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Major courses/XJCO2221 Networks/Notebook.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 10,
+            "c": 95
+          },
+          {
+            "timeKey": "17:15",
+            "w": 951,
+            "c": 4363
+          },
+          {
+            "timeKey": "17:20",
+            "w": -2,
+            "c": 112
+          }
+        ],
+        "id": 27
+      },
       {
         "date": "2025-07-26",
         "filePath": "copilot-custom-prompts/Emojify.md",
         "wordCountStart": 55,
         "charCountStart": 470,
         "changes": [],
-        "id": 16
+        "id": 28
       },
       {
         "date": "2025-07-26",
-        "filePath": "欢迎.md",
-        "wordCountStart": 59,
-        "charCountStart": 111,
+        "filePath": "copilot-custom-prompts/Explain like I am 5.md",
+        "wordCountStart": 37,
+        "charCountStart": 388,
         "changes": [],
-        "id": 18
+        "id": 29
       },
       {
         "date": "2025-07-26",
-        "filePath": "2025-07-26.md",
+        "filePath": "copilot-custom-prompts/Generate glossary.md",
+        "wordCountStart": 32,
+        "charCountStart": 353,
+        "changes": [],
+        "id": 30
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "copilot-custom-prompts/Generate table of contents.md",
+        "wordCountStart": 35,
+        "charCountStart": 357,
+        "changes": [],
+        "id": 31
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "copilot-custom-prompts/Make shorter.md",
+        "wordCountStart": 37,
+        "charCountStart": 373,
+        "changes": [],
+        "id": 32
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "copilot-custom-prompts/Rewrite as tweet.md",
+        "wordCountStart": 36,
+        "charCountStart": 376,
+        "changes": [],
+        "id": 33
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "copilot-custom-prompts/Rewrite as tweet thread.md",
+        "wordCountStart": 58,
+        "charCountStart": 500,
+        "changes": [],
+        "id": 34
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Networks/Networks.md",
+        "wordCountStart": 949,
+        "charCountStart": 4345,
+        "changes": [],
+        "id": 35
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Networks/slides/slides-1.pdf",
+        "wordCountStart": 132648,
+        "charCountStart": 599096,
+        "changes": [],
+        "id": 36
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Backup/XJCO2221 Networks/slides/slides-1.pdf",
+        "wordCountStart": 132648,
+        "charCountStart": 599096,
+        "changes": [],
+        "id": 37
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Backup/XJCO2221 Networks/exams/2021.pdf",
+        "wordCountStart": 1826524,
+        "charCountStart": 8638182,
+        "changes": [],
+        "id": 38
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Backup/XJCO2221 Networks/exams/2022.pdf",
+        "wordCountStart": 2175036,
+        "charCountStart": 10369223,
+        "changes": [],
+        "id": 39
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Backup/XJCO2221 Networks/exams/2023.pdf",
+        "wordCountStart": 8698590,
+        "charCountStart": 41573998,
+        "changes": [],
+        "id": 40
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Backup/XJCO2221 Networks/exams/2024.pdf",
+        "wordCountStart": 57704,
+        "charCountStart": 260702,
+        "changes": [],
+        "id": 41
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "XJCO2221.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "00:30",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 19
+        "changes": [],
+        "id": 42
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Backup/XJCO2221.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 43
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Major courses/XJCO2912 Software Engineering Principles/Notebook.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 44
       }
     ]
   }
