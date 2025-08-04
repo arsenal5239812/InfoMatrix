@@ -25,12 +25,14 @@
             "id": "a3eefd3de220c6f1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Backup/XJCO2912 Software Engineering Principles/coursework.pdf"
+                "file": "八股训练营/Notebook.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "coursework"
+              "icon": "lucide-file",
+              "title": "Notebook"
             }
           },
           {
@@ -127,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backup/XJCO2912 Software Engineering Principles/coursework.pdf",
+                "file": "八股训练营/Notebook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "coursework 的大纲"
+              "title": "Notebook 的大纲"
             }
           }
         ]
@@ -183,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backup/XJCO2912 Software Engineering Principles/coursework.pdf",
+                "file": "八股训练营/Notebook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "coursework 的反向链接列表"
+              "title": "Notebook 的反向链接列表"
             }
           },
           {
@@ -202,12 +204,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backup/XJCO2912 Software Engineering Principles/coursework.pdf",
+                "file": "八股训练营/Notebook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "coursework 的出链列表"
+              "title": "Notebook 的出链列表"
             }
           },
           {
@@ -288,9 +290,13 @@
       "vision-recall:Open Vision Recall": false
     }
   },
-  "active": "787b05a738df4f90",
+  "active": "a3eefd3de220c6f1",
   "lastOpenFiles": [
     "Major courses/XJCO2221 Networks/Notebook.md",
+    "八股训练营/Notebook.md",
+    "未命名.md",
+    "Backup/XJCO2912 Software Engineering Principles/coursework.pdf",
+    "八股训练营",
     "Major courses/XJCO2912 Software Engineering Principles/Notebook.md",
     "欢迎.md",
     "XJCO2221.md",
@@ -311,8 +317,6 @@
     "Backup/XJCO2221 Networks/exams/2022.pdf",
     "Backup/XJCO2221 Networks/figures",
     "Backup/XJCO2221 Networks/exams",
-    "Backup/XJCO2221 Networks/slides/slides-20.pdf",
-    "Backup/XJCO2221 Networks/slides/slides-19.pdf",
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
