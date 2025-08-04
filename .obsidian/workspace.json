@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a581413478c08d4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          },
-          {
-            "id": "22f9f46aedc7f495",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backup/XJCO2221.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "XJCO2221"
-            }
-          },
-          {
             "id": "f908141d18697e76",
             "type": "leaf",
             "state": {
@@ -48,9 +20,45 @@
               "icon": "lucide-file",
               "title": "Notebook"
             }
+          },
+          {
+            "id": "a3eefd3de220c6f1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Backup/XJCO2912 Software Engineering Principles/coursework.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "coursework"
+            }
+          },
+          {
+            "id": "cf5ffc18e3defc85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Major courses/XJCO2912 Software Engineering Principles/Notebook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notebook"
+            }
+          },
+          {
+            "id": "2ee9277e9a5c2524",
+            "type": "leaf",
+            "state": {
+              "type": "vision-recall-view",
+              "state": {},
+              "icon": "image",
+              "title": "Vision Recall"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Major courses/XJCO2221 Networks/Notebook.md",
+                "file": "Backup/XJCO2912 Software Engineering Principles/coursework.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Notebook 的大纲"
+              "title": "coursework 的大纲"
             }
           }
         ]
@@ -175,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Major courses/XJCO2221 Networks/Notebook.md",
+                "file": "Backup/XJCO2912 Software Engineering Principles/coursework.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Notebook 的反向链接列表"
+              "title": "coursework 的反向链接列表"
             }
           },
           {
@@ -194,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Major courses/XJCO2221 Networks/Notebook.md",
+                "file": "Backup/XJCO2912 Software Engineering Principles/coursework.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Notebook 的出链列表"
+              "title": "coursework 的出链列表"
             }
           },
           {
@@ -276,16 +284,17 @@
       "keep-the-rhythm:Word Count Stats": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "vision-recall:Open Vision Recall": false
     }
   },
-  "active": "f908141d18697e76",
+  "active": "787b05a738df4f90",
   "lastOpenFiles": [
-    "Backup/XJCO2221.md",
-    "欢迎.md",
     "Major courses/XJCO2221 Networks/Notebook.md",
     "Major courses/XJCO2912 Software Engineering Principles/Notebook.md",
+    "欢迎.md",
     "XJCO2221.md",
+    "Backup/XJCO2221.md",
     "Backup/XJCO2221 Networks/exams/2021.pdf",
     "Backup/XJCO2221 Networks/slides/slides-1.pdf",
     "Backup/XJCO2221 Networks/exams/2024.pdf",
