@@ -6,6 +6,4 @@ pixel-banner-flag-color: black
 ---
 ## Day 05
 ### 1. HTTPS 和 HTTP 有哪些区别？
-
-### 2. HTTPS 工作原理？
-### 3. TCP 和 UDP 的区别？
+HTTP 是一个在计算机世界里专门在**两点**之间之间**传输**文字、图片和视频等**超文本**数据的**约定和规范**。
