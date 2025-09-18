@@ -71,8 +71,7 @@
               "title": "Vision Recall"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,7 +302,7 @@
       "vision-recall:Open Vision Recall": false
     }
   },
-  "active": "c258f132de9ddd91",
+  "active": "f908141d18697e76",
   "lastOpenFiles": [
     "八股训练营/Notebook.md",
     "Major courses/XJCO2912 Software Engineering Principles/Notebook.md",
