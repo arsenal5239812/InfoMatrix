@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "c258f132de9ddd91",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.12"
+            }
+          },
+          {
             "id": "a3eefd3de220c6f1",
             "type": "leaf",
             "state": {
@@ -59,7 +71,8 @@
               "title": "Vision Recall"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,6 +285,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
@@ -289,7 +303,7 @@
       "vision-recall:Open Vision Recall": false
     }
   },
-  "active": "f908141d18697e76",
+  "active": "c258f132de9ddd91",
   "lastOpenFiles": [
     "八股训练营/Notebook.md",
     "Major courses/XJCO2912 Software Engineering Principles/Notebook.md",
