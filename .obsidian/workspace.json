@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Major courses/XJCO2221 Networks/Notebook.md",
-                "mode": "source",
+                "file": "八股训练营/Notebook.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Major courses/XJCO2221 Networks/Notebook.md",
+                "file": "八股训练营/Notebook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -198,8 +198,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0e18442f0cd53878",
@@ -252,10 +251,10 @@
       "vision-recall:Open Vision Recall": false
     }
   },
-  "active": "f908141d18697e76",
+  "active": "787b05a738df4f90",
   "lastOpenFiles": [
-    "八股训练营/Notebook.md",
     "Major courses/XJCO2221 Networks/Notebook.md",
+    "八股训练营/Notebook.md",
     "Major courses/XJCO2912 Software Engineering Principles/Notebook.md",
     "未命名.md",
     "Backup/XJCO2912 Software Engineering Principles/coursework.pdf",
