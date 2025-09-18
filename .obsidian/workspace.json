@@ -59,8 +59,7 @@
               "title": "Vision Recall"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股训练营/Notebook.md",
+                "file": "Major courses/XJCO2221 Networks/Notebook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -290,14 +289,14 @@
       "vision-recall:Open Vision Recall": false
     }
   },
-  "active": "a3eefd3de220c6f1",
+  "active": "f908141d18697e76",
   "lastOpenFiles": [
-    "Major courses/XJCO2221 Networks/Notebook.md",
     "八股训练营/Notebook.md",
+    "Major courses/XJCO2912 Software Engineering Principles/Notebook.md",
+    "Major courses/XJCO2221 Networks/Notebook.md",
     "未命名.md",
     "Backup/XJCO2912 Software Engineering Principles/coursework.pdf",
     "八股训练营",
-    "Major courses/XJCO2912 Software Engineering Principles/Notebook.md",
     "欢迎.md",
     "XJCO2221.md",
     "Backup/XJCO2221.md",
